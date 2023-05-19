@@ -12,3 +12,8 @@ Realicé varias páginas web construida en Wordpress y también diseños de piez
 Tengo gran conocimento en herramientas como Trello, Asana, Discord para el trabajo en equipo.
 
 Mi deseo es comenzar a trabajar en el desarrollo y comenzar a tener mis primeras experiencias como desarrollador.
+
+## Encuéntrame en:
+
+[![Instagram](https://img.shields.io/badge/Instagram-@che_david25-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/che_david25)
+
