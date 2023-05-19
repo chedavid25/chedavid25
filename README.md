@@ -2,7 +2,6 @@
 
 [![Banner-David.png](https://i.postimg.cc/cJHdbBrM/Banner-David.png)](https://postimg.cc/cvpqKY7r)
 
-[![Discord](https://img.shields.io/discord/Che20David#1001)](https://img.shields.io/discord/CheDavid#1001?style=flat-square)
 
 
 Me recibí de coach Ontológico profesional y junto a mi socia fundé la empresa Imalá, donde brindamos asesoramiento en coaching personal y para equipos. Capacitaciones para equipos en empresas, y acompañamiento a líderes.
@@ -12,6 +11,11 @@ Realicé varias páginas web construida en Wordpress y también diseños de piez
 Tengo gran conocimento en herramientas como Trello, Asana, Discord para el trabajo en equipo.
 
 Mi deseo es comenzar a trabajar en el desarrollo y comenzar a tener mis primeras experiencias como desarrollador.
+
+## Tecnologías que uso:
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+
 
 ## Encuéntrame en:
 
