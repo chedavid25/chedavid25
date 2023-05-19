@@ -1,5 +1,5 @@
-# ![https://mouredev.com](https://drive.google.com/file/d/1F-58tQwedy9XyCQIGAr16zQC40sFusp8/view?usp=share_link)) Hola, mi nombre es Brais Moure 👋
-### Freelance full-stack iOS & Android engineer
+![https://github.com/chedavid25](https://drive.google.com/file/d/1F-58tQwedy9XyCQIGAr16zQC40sFusp8/view?usp=share_link)
+
 ### Hola! 👋
 
 Me recibí de coach Ontológico profesional y junto a mi socia funde la empresa Imalá, donde brindamos asesoramiento en coaching personal y para equipos. Capacitaciones para equipos en empresas, y acompañamiento a líderes.
