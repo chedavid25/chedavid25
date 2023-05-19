@@ -1,6 +1,7 @@
-[![Banner-perfil-2-David.png](https://i.postimg.cc/kMSpqRSQ/Banner-perfil-2-David.png)](https://postimg.cc/hhSr0jpv)
-
 ### Hola! 👋
+
+[![Banner-David.png](https://i.postimg.cc/cJHdbBrM/Banner-David.png)](https://postimg.cc/cvpqKY7r)
+
 
 Me recibí de coach Ontológico profesional y junto a mi socia funde la empresa Imalá, donde brindamos asesoramiento en coaching personal y para equipos. Capacitaciones para equipos en empresas, y acompañamiento a líderes.
 
