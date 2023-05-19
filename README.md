@@ -15,7 +15,8 @@ Mi deseo es comenzar a trabajar en el desarrollo y comenzar a tener mis primeras
 ## Tecnologías que uso:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+
 
 
 ## Encuéntrame en:
