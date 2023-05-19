@@ -17,7 +17,7 @@ Mi deseo es comenzar a trabajar en el desarrollo y comenzar a tener mis primeras
 
 [![Instagram](https://img.shields.io/badge/Instagram-@che_david25-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/che_david25)
 [![Mi Portfolio](https://img.shields.io/badge/web-davidtello.com.ar-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://davidtello.com.ar)
-[![Mail](https://img.shields.io/badge/Mail-davidtello2502@gmail.com-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](<a href="mailto:davidtello2502@gmail.com">Mi Mail</a>)
+[![Mail](https://img.shields.io/badge/Mail-davidtello2502@gmail.com-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](mailto:davidtello2502@gmail.com)
 )
 
 
