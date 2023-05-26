@@ -19,6 +19,12 @@ Mi deseo es comenzar a trabajar en el desarrollo y comenzar a tener mis primeras
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=html&logoColor=white&labelColor=1572B6)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=html&logoColor=white&labelColor=26557c)]()
 [![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![WORDPRESS](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![ELEMENTOR](https://img.shields.io/badge/ELEMENTOR-#92003B?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![DIVI](https://img.shields.io/badge/DIVI-4B0199?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+
+
+
 
 ## Del paquete Adobe tengo conocimientos en:
 
