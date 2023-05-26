@@ -19,7 +19,18 @@ Mi deseo es comenzar a trabajar en el desarrollo y comenzar a tener mis primeras
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=html&logoColor=white&labelColor=1572B6)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=html&logoColor=white&labelColor=26557c)]()
 [![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+
+## Del paquete Adobe tengo conocimientos en:
+
 [![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![ILUSTRATOR](https://img.shields.io/badge/ILUSTRATOR-FF9A00?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![PREMIER](https://img.shields.io/badge/PREMIER-9999FF?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![LIGHTROOM](https://img.shields.io/badge/LIGHTROOM-31A8FF?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![INDESING](https://img.shields.io/badge/INDESING-FF3366?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+
+
+
+
 
 
 
