@@ -28,6 +28,16 @@ Mi deseo es comenzar a trabajar en el desarrollo y comenzar a tener mis primeras
 [![LIGHTROOM](https://img.shields.io/badge/LIGHTROOM-31A8FF?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
 [![INDESING](https://img.shields.io/badge/INDESING-FF3366?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
 
+## Aplicaciones que uso para gestionar y trabajar en equipo:
+
+[![TRELLO](https://img.shields.io/badge/TRELLO-0052CC?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![ASANA](https://img.shields.io/badge/ASANA-F06A6A?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![BITRIX24](https://img.shields.io/badge/BITRIX24-32C0F6?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+
+
+
+
+
 
 
 
