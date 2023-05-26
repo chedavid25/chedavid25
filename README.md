@@ -33,6 +33,12 @@ Mi deseo es comenzar a trabajar en el desarrollo y comenzar a tener mis primeras
 [![TRELLO](https://img.shields.io/badge/TRELLO-0052CC?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
 [![ASANA](https://img.shields.io/badge/ASANA-F06A6A?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
 [![BITRIX24](https://img.shields.io/badge/BITRIX24-32C0F6?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![MONDAY](https://img.shields.io/badge/MONDAY-e2445c?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![DISCORD](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+[![NOTION](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
+
+
+
 
 
 
