@@ -17,7 +17,7 @@ Mi deseo es comenzar a trabajar en el desarrollo y comenzar a tener mis primeras
 [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=html&logoColor=white&labelColor=E34F26)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white&labelColor=E34F26)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=html&logoColor=white&labelColor=1572B6)]()
-[![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=html&logoColor=white&labelColor=26557c)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=html&logoColor=white&labelColor=26557c)]()
 [![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=html&logoColor=white&labelColor=7952B3)]()
 
 
